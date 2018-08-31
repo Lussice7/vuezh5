@@ -1,0 +1,420 @@
+{
+    "code": "00000",
+    "errMsg": null,
+    "data": [
+        {
+            "centerId": 404,
+            "centerName": "消防工程师",
+            "child": [
+                {
+                    "cateId": 159,
+                    "cateName": "免费公开课",
+                    "child": [
+                        {
+                            "cateId": 168,
+                            "cateName": "技术实务"
+                        },
+                        {
+                            "cateId": 169,
+                            "cateName": "综合能力"
+                        },
+                        {
+                            "cateId": 186,
+                            "cateName": "案例分析"
+                        },
+                        {
+                            "cateId": 187,
+                            "cateName": "备考指导"
+                        }
+                    ]
+                },
+                {
+                    "cateId": 160,
+                    "cateName": "基础课",
+                    "child": [
+                        {
+                            "cateId": 165,
+                            "cateName": "技术实务"
+                        },
+                        {
+                            "cateId": 166,
+                            "cateName": "综合能力"
+                        },
+                        {
+                            "cateId": 167,
+                            "cateName": "案例分析"
+                        }
+                    ]
+                },
+                {
+                    "cateId": 161,
+                    "cateName": "真题课",
+                    "child": [
+                        {
+                            "cateId": 180,
+                            "cateName": "技术实务"
+                        },
+                        {
+                            "cateId": 188,
+                            "cateName": "综合能力"
+                        },
+                        {
+                            "cateId": 189,
+                            "cateName": "案例分析"
+                        }
+                    ]
+                },
+                {
+                    "cateId": 162,
+                    "cateName": "精品课",
+                    "child": [
+                        {
+                            "cateId": 181,
+                            "cateName": "三合一精品"
+                        }
+                    ]
+                },
+                {
+                    "cateId": 163,
+                    "cateName": "案例课",
+                    "child": [
+                        {
+                            "cateId": 190,
+                            "cateName": "案例特训"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "centerId": 406,
+            "centerName": "安全工程师",
+            "child": [
+                {
+                    "cateId": 278,
+                    "cateName": "基础通关班",
+                    "child": [
+                        {
+                            "cateId": 279,
+                            "cateName": "生产技术"
+                        },
+                        {
+                            "cateId": 280,
+                            "cateName": "管理知识"
+                        },
+                        {
+                            "cateId": 281,
+                            "cateName": "案例分析"
+                        },
+                        {
+                            "cateId": 282,
+                            "cateName": "法律知识"
+                        }
+                    ]
+                },
+                {
+                    "cateId": 283,
+                    "cateName": "急速通关班",
+                    "child": [
+                        {
+                            "cateId": 286,
+                            "cateName": "生产技术"
+                        },
+                        {
+                            "cateId": 289,
+                            "cateName": "管理知识"
+                        },
+                        {
+                            "cateId": 292,
+                            "cateName": "案例分析"
+                        },
+                        {
+                            "cateId": 295,
+                            "cateName": "法律知识"
+                        }
+                    ]
+                },
+                {
+                    "cateId": 284,
+                    "cateName": "精品VIP班",
+                    "child": [
+                        {
+                            "cateId": 287,
+                            "cateName": "生产技术"
+                        },
+                        {
+                            "cateId": 290,
+                            "cateName": "管理知识"
+                        },
+                        {
+                            "cateId": 293,
+                            "cateName": "案例分析"
+                        },
+                        {
+                            "cateId": 296,
+                            "cateName": "法律知识"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "centerId": 407,
+            "centerName": "三项岗位人员",
+            "child": [
+                {
+                    "cateId": 1,
+                    "cateName": "主要负责人(初训)",
+                    "child": [
+                        {
+                            "cateId": 8,
+                            "cateName": "金属非金属矿山"
+                        },
+                        {
+                            "cateId": 10,
+                            "cateName": "危险化学品"
+                        },
+                        {
+                            "cateId": 11,
+                            "cateName": "金属冶炼"
+                        },
+                        {
+                            "cateId": 12,
+                            "cateName": "烟花爆竹"
+                        },
+                        {
+                            "cateId": 13,
+                            "cateName": "非高危行业"
+                        },
+                        {
+                            "cateId": 170,
+                            "cateName": "煤矿"
+                        }
+                    ]
+                },
+                {
+                    "cateId": 2,
+                    "cateName": "安全管理人员(初训)",
+                    "child": [
+                        {
+                            "cateId": 16,
+                            "cateName": "金属非金属矿山"
+                        },
+                        {
+                            "cateId": 17,
+                            "cateName": "危险化学品"
+                        },
+                        {
+                            "cateId": 59,
+                            "cateName": "金属冶炼"
+                        },
+                        {
+                            "cateId": 92,
+                            "cateName": "烟花爆竹"
+                        },
+                        {
+                            "cateId": 93,
+                            "cateName": "非高危行业"
+                        },
+                        {
+                            "cateId": 171,
+                            "cateName": "煤矿"
+                        }
+                    ]
+                },
+                {
+                    "cateId": 3,
+                    "cateName": "特种作业人员(初训)",
+                    "child": [
+                        {
+                            "cateId": 18,
+                            "cateName": "电工作业"
+                        },
+                        {
+                            "cateId": 19,
+                            "cateName": "冶金（有色）生产安全作业"
+                        },
+                        {
+                            "cateId": 20,
+                            "cateName": "金属非金属矿山安全作业"
+                        },
+                        {
+                            "cateId": 94,
+                            "cateName": "煤矿安全作业"
+                        },
+                        {
+                            "cateId": 95,
+                            "cateName": "石油天然气安全作业"
+                        },
+                        {
+                            "cateId": 96,
+                            "cateName": "危险化学品安全作业"
+                        },
+                        {
+                            "cateId": 118,
+                            "cateName": "烟花爆竹安全作业"
+                        },
+                        {
+                            "cateId": 177,
+                            "cateName": "焊接与热切割作业"
+                        },
+                        {
+                            "cateId": 178,
+                            "cateName": "高处作业"
+                        },
+                        {
+                            "cateId": 179,
+                            "cateName": "制冷与空调作业"
+                        }
+                    ]
+                },
+                {
+                    "cateId": 97,
+                    "cateName": " 主要负责人(复训)",
+                    "child": [
+                        {
+                            "cateId": 99,
+                            "cateName": "金属非金属矿山"
+                        },
+                        {
+                            "cateId": 100,
+                            "cateName": "危险化学品"
+                        },
+                        {
+                            "cateId": 101,
+                            "cateName": "金属冶炼"
+                        },
+                        {
+                            "cateId": 102,
+                            "cateName": "烟花爆竹"
+                        },
+                        {
+                            "cateId": 103,
+                            "cateName": "非高危行业"
+                        },
+                        {
+                            "cateId": 172,
+                            "cateName": "煤矿"
+                        }
+                    ]
+                },
+                {
+                    "cateId": 104,
+                    "cateName": "安全管理人员(复训)",
+                    "child": [
+                        {
+                            "cateId": 106,
+                            "cateName": "金属非金属矿山"
+                        },
+                        {
+                            "cateId": 107,
+                            "cateName": "危险化学品"
+                        },
+                        {
+                            "cateId": 108,
+                            "cateName": "金属冶炼"
+                        },
+                        {
+                            "cateId": 109,
+                            "cateName": "烟花爆竹"
+                        },
+                        {
+                            "cateId": 110,
+                            "cateName": "非高危行业"
+                        },
+                        {
+                            "cateId": 173,
+                            "cateName": "煤矿"
+                        }
+                    ]
+                },
+                {
+                    "cateId": 111,
+                    "cateName": "特种作业人员(复训)",
+                    "child": [
+                        {
+                            "cateId": 112,
+                            "cateName": "电工作业"
+                        },
+                        {
+                            "cateId": 113,
+                            "cateName": "冶金（有色）生产安全作业"
+                        },
+                        {
+                            "cateId": 114,
+                            "cateName": "金属非金属矿山安全作业"
+                        },
+                        {
+                            "cateId": 115,
+                            "cateName": "煤矿安全作业"
+                        },
+                        {
+                            "cateId": 116,
+                            "cateName": "石油天然气安全作业"
+                        },
+                        {
+                            "cateId": 117,
+                            "cateName": "危险化学品安全作业"
+                        },
+                        {
+                            "cateId": 119,
+                            "cateName": "烟花爆竹安全作业"
+                        },
+                        {
+                            "cateId": 174,
+                            "cateName": "焊接与热切割作业"
+                        },
+                        {
+                            "cateId": 175,
+                            "cateName": "高处作业"
+                        },
+                        {
+                            "cateId": 176,
+                            "cateName": "制冷与空调作业"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "centerId": 542,
+            "centerName": "继续教育",
+            "child": [
+                {
+                    "cateId": 534,
+                    "cateName": "注册安全工程师继续教育",
+                    "child": [
+                        {
+                            "cateId": 535,
+                            "cateName": "煤矿安全"
+                        },
+                        {
+                            "cateId": 536,
+                            "cateName": "金属非金属矿山安全"
+                        },
+                        {
+                            "cateId": 537,
+                            "cateName": "建筑施工安全"
+                        },
+                        {
+                            "cateId": 538,
+                            "cateName": "危险物品（危险化学品）安全"
+                        },
+                        {
+                            "cateId": 539,
+                            "cateName": "危险物品（烟花爆竹）安全"
+                        },
+                        {
+                            "cateId": 540,
+                            "cateName": "危险物品（民用爆破器材）安全"
+                        },
+                        {
+                            "cateId": 541,
+                            "cateName": "其他安全"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+  "code": "00000",
+  "errMsg": null,
+  "data": [{
+    "imageUrl": "http://app1.zayxy.com/static/image/news00.png",
+    "jumpUrl": "http://app1.zayxy.com/static/html/news0.html"
+  }, {
+    "imageUrl": "http://app1.zayxy.com/static/image/news01.png",
+    "jumpUrl": "http://app1.zayxy.com/static/html/news1.html"
+  }, {
+    "imageUrl": "http://app1.zayxy.com/static/image/news02.png",
+    "jumpUrl": "http://app1.zayxy.com/static/html/news2.html"
+  }, {
+    "imageUrl": "http://app1.zayxy.com/static/image/banner4.png",
+    "jumpUrl": null
+  }]
+}
